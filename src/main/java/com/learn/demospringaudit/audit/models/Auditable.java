@@ -13,6 +13,7 @@ import javax.persistence.EntityListeners;
 import javax.persistence.MappedSuperclass;
 import java.util.Date;
 
+
 @Setter
 @Getter
 @MappedSuperclass
